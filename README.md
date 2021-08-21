@@ -7,7 +7,7 @@
 # Links in this repo:
 
 * [Architecture](architecture/architecture.md)
-* [Challenges](challenges.md)
+* [Challenges](challenges/challenges.md)
 
 # Useful Links
 

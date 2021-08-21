@@ -8,3 +8,7 @@
 
 * [Architecture](architecture/architecture.md)
 * [Challenges](challenges.md)
+
+# Useful Links
+
+* [NIST SP 800-207 Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
